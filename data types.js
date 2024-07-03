@@ -1,5 +1,5 @@
 //string (any data in quotes is a string)
-var name = "beau";
+var name = "job";
 console.log("Hi! My name is" + name)
 
 //boolean (true or false)

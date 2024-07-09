@@ -31,3 +31,8 @@ admin = name;
 console.log( admin ); // "John"
 
 //
+
+// Naming Conventions
+// Camelcase -- firstName, lastName
+// PascalCase -- FirstName, LastName
+// SnakeCase -- first_name, last_name

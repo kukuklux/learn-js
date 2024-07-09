@@ -11,7 +11,7 @@ if (data) {
     console.log("booleams are lame");
 }
 
-//nul (no value)
+//null (no value)
 var n= null;
 console.log(n*32);
 

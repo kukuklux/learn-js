@@ -65,3 +65,5 @@ function isLong(city) {
   const cities = ["nairobi", "mombasa", "kakamega", "machakos"];
   const longer = cities.filter(isLong);
   console.log(longer); // [ "mombasa", "machakos" ]
+
+//map

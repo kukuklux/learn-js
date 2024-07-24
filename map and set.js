@@ -90,7 +90,7 @@ let set = new Set();
 let ndwika = { name: "ndwika" };
 let skelly = { name: "skelly" };
 let jermaine = { name: "jermaine" };
-
+//people visiting a house, should not have duplicates
 // visits, some users come multiple times
 set.add(ndwika);
 set.add(skelly);
@@ -116,6 +116,9 @@ set.forEach((value, valueAgain, set) => {
 });
 
 //WEAKSET
+
+//example of people visiting a site
+
 let visitedSet = new WeakSet();
 
 let john = { name: "John" };
